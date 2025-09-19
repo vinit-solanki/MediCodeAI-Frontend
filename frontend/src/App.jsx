@@ -7,7 +7,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 import Login from "./pages/Login";
-import Signup from "./pages/Signup";
+import Signup from "./pages/SignUp";
 import PatientDashboard from "./pages/PatientDashboard";
 import HospitalDashboard from "./pages/HospitalDashboard";
 import HospitalResults from "./pages/HospitalResults";
